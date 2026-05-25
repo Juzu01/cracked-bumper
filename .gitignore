@@ -1,0 +1,5 @@
+cookies.txt
+*.log
+*.html
+__pycache__/
+.browser-profile/
